@@ -6,3 +6,6 @@ visit : https://www.joshuabrigati.com/?ref=dailydev
 
 Shohag Kumar Portfolio link :
 visit : https://day24challengebyshohag.netlify.app/
+
+Durgesh Bachhav.Portfolio link : 
+visit : https://durgeshbachhav.vercel.app/
